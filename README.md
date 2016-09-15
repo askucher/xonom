@@ -1,6 +1,8 @@
 # xonom
 AngularJS service model for nodejs
 
+This project is not maintained anymore. Please goto https://github.com/askucher/flyber
+
 keywords: node-angular, angularjs-nodejs
 
 ##Install
